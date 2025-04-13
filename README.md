@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p>If you are reading this then this github serves the purpose for codepath TIP102 course. I apolgize for the misguidance. Please if you want to know more about me then refer to this github repo: <href>github.com/ProjectJerryLucasArguello</href></p>
 <!--
 **Artbitrary2/Artbitrary2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
